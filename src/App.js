@@ -1,4 +1,3 @@
-import { Member } from "./components/member/Member";
 import "./App.css";
 import AboutUs from "./components/aboutus/AboutUs";
 import Header from "./components/header/Header";
